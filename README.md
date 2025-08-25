@@ -37,6 +37,10 @@ To contribute effectively in a professional setting by leveraging strong communi
 - Python (Web Scraping, Automation)  
 - MongoDB & Node.js (Beginner)  
 
+### 💻 Public Speaking  
+- Moderations, Speeches, Declamations
+- Organize events in University as a society member   
+
 ### 🎨 3D & Design  
 - Blender (Lowpoly Modeling: Cars, Buses)  
 - 3DS Max (Home Exteriors, Structures)  
@@ -56,8 +60,9 @@ To contribute effectively in a professional setting by leveraging strong communi
 
 ## 📁 Projects  
 
-- **RFID Attendance System** *(Arduino Uno, C++)* – Automated attendance system.  
-- **Quiz & Exam Management System** *(C# .NET)* – Desktop-based exam system.  
+- **Finger Print Doorlock System** *(Arduino Uno, C++)* – Door lock system.  
+- **Quiz & Exam\ Management System** *(C# .NET)* – Desktop-based exam system.
+-  **Finance Management System** *(C# .NET)* – Desktop-based exam system.
 - **Portfolio Web App** *(HTML, CSS, JS)* – Personal portfolio website.  
 - **Web Scraping Tool** *(Python)* – Automated data collection.  
 - **3D Models** *(Blender, 3DS Max)* – Cars, buses, and home exteriors.  
