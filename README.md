@@ -37,7 +37,7 @@ To contribute effectively in a professional setting by leveraging strong communi
 - Python (Web Scraping, Automation)  
 - MongoDB & Node.js (Beginner)  
 
-### 💻 Public Speaking  
+### 🎤 Public Speaking
 - Moderations, Speeches, Declamations
 - Organize events in University as a society member   
 
